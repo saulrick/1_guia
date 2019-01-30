@@ -1,0 +1,1 @@
+﻿positionForPages[57]={page:57,positions:[{word:"57 ",left:0.843308,top:0.910662,width:0.034636,height:0.017974},{word:"Compilado y adaptado por: Postdoc., Saúl Rick Fernández ",left:0.275884,top:0.929637,width:0.431363,height:0.012662}]};
